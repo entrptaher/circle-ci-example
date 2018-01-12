@@ -12,4 +12,4 @@ jobs:
       - run:
           name: "Checking Installation"
           command: |
-	    npm install
+            npm install
