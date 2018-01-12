@@ -1,0 +1,12 @@
+{
+  "name": "circle-ci-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/entrptaher/circle-ci-example",
+  "author": "entrptaher@gmail.com <entrptaher@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^8.0.1",
+    "p-queue": "^2.3.0"
+  }
+}
